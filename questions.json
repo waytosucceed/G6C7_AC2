@@ -1,0 +1,210 @@
+[
+  {
+    "questionNo": "Q1.",
+    "question": "Identify the verb in the sentence: 'The sun shines brightly in the sky.'",
+    "options": [
+      "The",
+      "shines",
+      "brightly",
+      "in"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q2.",
+    "question": "A verb is transitive when the action of the verb passes from the subject to the direct object.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q3.",
+    "question": "Identify the highlighted verb in the sentence: 'The birds flew gracefully across the sky.'",
+    "options": [
+      "Auxiliary verb",
+      "Helping verb",
+      "Intransitive verb",
+      "Transitive verb"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q4.",
+    "question": "Which of the following is an auxiliary verb?",
+    "options": [
+      "Jump",
+      "Sing",
+      "Has",
+      "Paint"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q5.",
+    "question": "All verbs require a direct object.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q6.",
+    "question": "Identify the transitive verb in the sentence: 'She wrote a beautiful poem.'",
+    "options": [
+      "She",
+      "wrote",
+      "beautiful",
+      "poem"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q7.",
+    "question": "Which of the following is a primary auxiliary verb?",
+    "options": [
+      "May",
+      "Can",
+      "Is",
+      "Should"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q8.",
+    "question": "Auxiliary verbs can never be the main verb in a sentence.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q9.",
+    "question": "Identify the intransitive verb in the sentence: 'The leaves danced in the gentle breeze.'",
+    "options": [
+      "The",
+      "leaves",
+      "danced",
+      "in"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q10.",
+    "question": "Which of the following is an auxiliary verb?",
+    "options": [
+      "Eat",
+      "Run",
+      "Will",
+      "Climb"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q11.",
+    "question": "Which of the following are auxiliary verbs?",
+    "options": [
+      "Have",
+      "Has",
+      "Had",
+      "All of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q12.",
+    "question": "Identify the highlighted verb in the sentence: 'The teacher explained the concept clearly.'",
+    "options": [
+      "Intransitive verb",
+      "Auxiliary verb",
+      "Transitive verb",
+      "None of the above"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q13.",
+    "question": "Identify the modal auxiliary verb in the sentence: 'You should clean your room.'",
+    "options": [
+      "You",
+      "Should",
+      "Clean",
+      "Room"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q14.",
+    "question": "Intransitive verbs have a direct object.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q15.",
+    "question": "Identify the auxiliary verb in the sentence: 'She has been studying for her exam.'",
+    "options": [
+      "She",
+      "has",
+      "been",
+      "Both b and c"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q16.",
+    "question": "Which of the following is a transitive verb?",
+    "options": [
+      "Sneeze",
+      "Sleep",
+      "Whistle",
+      "Admire"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q17.",
+    "question": "Verbs only express action.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q18.",
+    "question": "Identify the correct pair of words with their verb type in the sentence: 'The river flows through the valley.'",
+    "options": [
+      "The - Auxiliary verb",
+      "river - Helping verb",
+      "flows - Intransitive verb",
+      "Through - Intransitive verb"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q19.",
+    "question": "Which of the following is an auxiliary verb?",
+    "options": [
+      "Laugh",
+      "Sing",
+      "Could",
+      "Paint"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q20.",
+    "question": "Auxiliary verbs have to be connected to a main verb to make sense.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 0
+  }
+]

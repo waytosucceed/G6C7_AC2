@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Class Activity 2</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+  
+  <link rel="icon" type="image/x-icon" href="Logo_last.png">
+
+
+  <style>
+        
+
+.correct{
+    background-color: rgb(167, 225, 243);
+    border-radius: 50%;
+    width:100px;
+    height: 50px;
+   font-weight: bold;
+   
+}
+
+
+  </style>
+
+
+
+</head>
+
+
+<body>
+  <audio id="cheers" >
+    <source src="cheers.mp3" type="audio/mpeg">
+  </audio>
+  <audio id="points" src="Points.mp3"></audio>
+  <audio id="fail" src="fail.mp3"></audio>
+  <div class="header" style="width:100%; box-shadow:5px 5px 10px rgb(0, 0, 0); padding-bottom:10px;">
+    <img src="Logo.png" width="5%" style="float:left; margin-top:25px;" class="img-responsive">
+    <span> <img src="header.png" width="30%" height="100px" class="img-responsive"></span>
+</div>
+<br>
+<br>
+  <center>
+    
+    <h1 id="heading" style="font-family: Impact">Lets Revise With The Teacher</h1>
+    <div class="maindiv container" style="padding-top: 50px;">
+  
+  
+     <p style="font-size: 20px;">Q1.  What is the role of “Modal verbs” in a sentence?
+  
+      <br><br>
+  
+      <label id="label1"></label> 
+         <button onclick="func1()" id="btn1" class="correct">Check</button> <br><br>
+  
+       Q2.  When do we use transitive verbs?
+       <br><br>
+  
+  
+       <label id="label2"></label>
+      <button onclick="func2()" id="btn2" class="correct">Check</button>
+       <br> <br>
+  
+  
+       Q3.  Give an example of an intransitive verb and explain its usage.
+       <br><br>
+  
+  
+       <label id="label3"></label>
+      <button onclick="func3()" id="btn3" class="correct">Check</button>
+       <br> <br>
+  
+       Q4.  How do auxiliary verbs help the main verb?
+       <br><br>
+  
+  
+       <label id="label4"></label>
+      <button onclick="func4()" id="btn4" class="correct">Check</button>
+       <br> <br>
+  
+       Q5.  Why are verbs important in communication?
+       <br><br>
+  
+  
+       <label id="label5"></label>
+      <button onclick="func5()" id="btn5" class="correct">Check</button>
+       <br> <br>
+    </p> 
+  </div>
+    <script>
+      
+             function func1(){
+              document.getElementById('label1').innerHTML="Modal verbs express modality in a sentence, which includes concepts such as ability, possibility, permission, obligation, or necessity. They modify the main verb and convey the speaker's attitude or intention towards the action described by the verb."
+              document.getElementById('btn1').style.display="none"
+             }
+  
+             function func2(){
+              document.getElementById('label2').innerHTML="We use transitive verbs when we want to describe an action that is performed upon a direct object or recipient."
+              document.getElementById('btn2').style.display="none"
+             }
+  
+             function func3(){
+              document.getElementById('label3').innerHTML="\"Sleep\" is an intransitive verb. It does not require a direct object to complete its meaning and expresses a self-contained action."
+              document.getElementById('btn3').style.display="none"
+             }
+  
+             function func4(){
+              document.getElementById('label4').innerHTML="Auxiliary verbs assist the main verb by expressing tense, mood, or voice, adding nuance and complexity to the sentence structure."
+              document.getElementById('btn4').style.display="none"
+             }
+  
+             function func5(){
+              document.getElementById('label5').innerHTML="Verbs are essential in communication because they express actions, events, or states of being, making our language dynamic and meaningful."
+              document.getElementById('btn5').style.display="none"
+             }
+  
+    </script>
+</center>
+</body>
+</html>
